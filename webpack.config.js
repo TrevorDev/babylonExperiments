@@ -1,6 +1,6 @@
 module.exports = {
     entry: {
-        keyboard: "./keyboard/index.ts"
+        test: "./app/index.ts"
     },
     output: {
         filename: '[name].js',
