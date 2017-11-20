@@ -1,6 +1,7 @@
 node_modules/
 cache/
 bower_components/
+dist/
 *.js
 !webpack.config.js
 *.map
